@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **sameer96277@gmail.com**
 
 * 💬 **Ask me about:** Python, SQL, Power BI, Excel, Data Cleaning, Data Visualization, and Data Analytics
 
-* 📫 **How to reach me:** [your-email@example.com](mailto:sameer96277@gmail.com)
+* 📫 **How to reach me:** [sameer96277@gmail.com]
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameer96277@gmail.com) 
