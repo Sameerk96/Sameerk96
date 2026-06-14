@@ -1,3 +1,18 @@
+# 💫 Hi 👋, I'm Sameer Khan
+
+Email Me 👉 ✉️ **sameer96277@gmail.com**
+
+* 🔭 **I’m currently working on:** Data Analytics, Power BI Dashboard Development, and Python-based Data Science projects
+
+* 🌱 **I’m currently learning:** Machine Learning, Deep Learning, Advanced SQL, and Cloud Technologies for Data Analytics
+
+* 👯 **I’m looking to collaborate on:** Open-source Data Analytics, Business Intelligence, and AI/ML projects
+
+* 🤔 **I’m looking for help with:** Advanced Machine Learning algorithms and production-ready AI solutions
+
+* 💬 **Ask me about:** Python, SQL, Power BI, Excel, Data Cleaning, Data Visualization, and Data Analytics
+
+* 📫 **How to reach me:** [your-email@example.com](mailto:sameer96277@gmail.com)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameer96277@gmail.com) 
