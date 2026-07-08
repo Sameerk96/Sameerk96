@@ -1,6 +1,6 @@
-# 💫 Hi 👋, I'm Sameer Khan
+ Hi , I'm Sameer Khan
 
-Email Me 👉 ✉️ **sameer96277@gmail.com**
+Email **sameer96277@gmail.com**
 
 * 🔭 **I’m currently working on:** Data Analytics, Power BI Dashboard Development, and Python-based Data Science projects
 
